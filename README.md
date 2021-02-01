@@ -1,4 +1,6 @@
-##step1
+!!! this project is for deploying on laradock (https://github.com/repetitor/stream202-laradock)
+
+##step1 (https://github.com/repetitor/stream202-laravel8/tree/step1)
 ``` 
 cp .env-example-repetitor202 .env
 ```
